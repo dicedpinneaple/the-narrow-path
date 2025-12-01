@@ -121,7 +121,7 @@ The truth is somewhere in between.
 
 ---
 
-3. AESTHETIC PILLARS
+# 3. AESTHETIC PILLARS
 
 
 ---
