@@ -5,11 +5,11 @@ Below is the Core Pillars Document (CPD), written in professional studio format,
 1. [Core Pillars](#1-the-experience-pillars)
 2. [Game Premise](#2-the-thematic-pillars)
 3. [Tone & Atmosphere](#3-aesthetic-pillars)
-4. [Narrative Themes](#4-design-pillars)
-5. [Structural Rules](#5-what-the-game-is)
-6. [Player Experience Goals](#6-what-the-game-is-not)
-7. [Inspirations](#7-usability-accessibility-pillars)
-8. [Faction / Sect Identity](#8-production-pillars)
+4. [Design Pillars](#4-design-pillars)
+5. [Experience Goals](#5-what-the-game-is)
+6. [Experience Pitfalls](#6-what-the-game-is-not)
+7. [Usability](#7-usability-accessibility-pillars)
+8. [Production Pillars](#8-production-pillars)
 
 ---
 
@@ -190,7 +190,7 @@ choices under uncertainty
 
 interpretation of symbols
 
-
+[Link to the Game Design Document.](https://github.com/dicedpinneaple/the-narrow-path/blob/79dcd8e2d0f3286ac115f8c8c2909c3dc44ea760/docs/systems/game_mechanics_overview.md)
 
 ---
 
