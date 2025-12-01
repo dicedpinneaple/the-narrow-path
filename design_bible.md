@@ -1,6 +1,15 @@
 # The Narrow Path — Design Bible
 Below is the Core Pillars Document (CPD), written in professional studio format, concise, directive, and usable internally by narrative, design, art, and production teams.
 
+## Table of Contents
+1. [Core Pillars](#the-experience-pillars)
+2. [Game Premise](#the-thematic-pillars)
+3. [Tone & Atmosphere](#aesthetic-pillars)
+4. [Narrative Themes](#design-pillars)
+5. [Structural Rules](#what-the-game-is)
+6. [Player Experience Goals](#what-the-game-is-not)
+7. [Inspirations](#usability-and-accessibility-pillars)
+8. [Faction / Sect Identity](#production-pillars)
 
 ---
 
@@ -13,7 +22,7 @@ Inspiration: Disco Elysium, Virginia, Oxenfree, Firewatch
 
 ---
 
-1. THE EXPERIENCE PILLARS
+# 1. THE EXPERIENCE PILLARS
 
 The three immutable principles defining what the player experience must be.
 
@@ -81,7 +90,7 @@ Conflicts are emotional, cultural, psychological.
 
 ---
 
-2. THE THEMATIC PILLARS
+# 2. THE THEMATIC PILLARS
 
 
 ---
@@ -163,7 +172,7 @@ Soft choral chanting for ritual scenes
 
 ---
 
-4. DESIGN PILLARS
+# 4. DESIGN PILLARS
 
 
 ---
@@ -212,7 +221,7 @@ Long routes (investigation+empathy)
 
 ---
 
-5. WHAT THE GAME IS
+# 5. WHAT THE GAME IS
 
 A psychological investigation of a rural spiritual community
 
@@ -228,7 +237,7 @@ A grounded, human drama with mystical aesthetics
 
 ---
 
-6. WHAT THE GAME IS NOT
+# 6. WHAT THE GAME IS NOT
 
 (To prevent creep-in during development)
 
@@ -250,7 +259,7 @@ NOT a moral lecture
 
 ---
 
-7. USABILITY & ACCESSIBILITY PILLARS
+# 7. USABILITY & ACCESSIBILITY PILLARS
 
 All esoteric concepts must be explained through story and usage, not textbooks.
 
@@ -264,7 +273,7 @@ Game length must be flexible (1 hour → 8 hours) depending on player depth.
 
 ---
 
-8. PRODUCTION PILLARS
+# 8. PRODUCTION PILLARS
 
 Modular writing: scenes built as independent nodes
 
