@@ -190,7 +190,7 @@ choices under uncertainty
 
 interpretation of symbols
 
-[Link to the Game Design Document.](https://github.com/dicedpinneaple/the-narrow-path/blob/79dcd8e2d0f3286ac115f8c8c2909c3dc44ea760/docs/systems/game_mechanics_overview.md)
+[Link to the Game Mechanics Document.](https://github.com/dicedpinneaple/the-narrow-path/blob/79dcd8e2d0f3286ac115f8c8c2909c3dc44ea760/docs/systems/game_mechanics_overview.md)
 
 ---
 
