@@ -1,15 +1,15 @@
 # The Narrow Path — Design Bible
-Below is the Core Pillars Document (CPD), written in professional studio format, concise, directive, and usable internally by narrative, design, art, and production teams.
+Below is the Core Pillars Document (CPD), written in professional studio format, concise, directive, and usable internally by narrative, design, art, and production teams. Mobile interactive novel with narrative RPG mechanics.
 
 ## Table of Contents
-1. [Core Pillars](#the-experience-pillars)
-2. [Game Premise](#the-thematic-pillars)
-3. [Tone & Atmosphere](#aesthetic-pillars)
-4. [Narrative Themes](#design-pillars)
-5. [Structural Rules](#what-the-game-is)
-6. [Player Experience Goals](#what-the-game-is-not)
-7. [Inspirations](#usability-&-accessibility-pillars)
-8. [Faction / Sect Identity](#production-pillars)
+1. [Core Pillars](#1-the-experience-pillars)
+2. [Game Premise](#2-the-thematic-pillars)
+3. [Tone & Atmosphere](#3-aesthetic-pillars)
+4. [Narrative Themes](#4-design-pillars)
+5. [Structural Rules](#5-what-the-game-is)
+6. [Player Experience Goals](#6-what-the-game-is-not)
+7. [Inspirations](#7-usability-accessibility-pillars)
+8. [Faction / Sect Identity](#8-production-pillars)
 
 ---
 
@@ -82,6 +82,7 @@ Esotericism is portrayed respectfully and realistically, without horror tropes.
 
 Conflicts are emotional, cultural, psychological.
 
+Mystical elements are symbolic, not literal threats.
 
 > Mysticism is a lens for humanity, not a threat to it.
 
