@@ -8,7 +8,7 @@ Below is the Core Pillars Document (CPD), written in professional studio format,
 4. [Narrative Themes](#design-pillars)
 5. [Structural Rules](#what-the-game-is)
 6. [Player Experience Goals](#what-the-game-is-not)
-7. [Inspirations](#usability-and-accessibility-pillars)
+7. [Inspirations](#usability-&-accessibility-pillars)
 8. [Faction / Sect Identity](#production-pillars)
 
 ---
