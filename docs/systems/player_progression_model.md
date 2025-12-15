@@ -8,17 +8,17 @@ Gravity (0–100) — openness toward the sect
 
 Evidence Score (0–20) — how many distinct, interpreted clues the player has
 
-
 Act transitions, access to scenes, and available editorial levers are determined by combinations of these three. Skill increases unlock new internal-voice options, dialogue branches, ritual outcomes, and report-building components.
+
 ---
 
 # Table of Contents 
 
-1. [Starting State](#1-starting-state-prologue-act-i-opening)
-2. [Mid-game abilities](#2-mid-game-abilities-act-ii-integration)
-3. [Late-game narrative tools](#3-act-iii-pre-report)
+1. [Starting State](#1-starting-state-prologue--act-i-opening)
+2. [Mid-game abilities](#2-mid-game-abilities-act-ii--integration)
+3. [Late-game narrative tools](#3-act-iii--pre-report)
 4. [Crossroad Choices (Final branching mechanics)](#4-crossroad-choices-final-branching-mechanics)
-5. [Ending Map — quick reference](#5-ending-map-quick-reference-6-major-epilogue-clusters)
+5. [Ending Map — quick reference](#5-ending-map--quick-reference-6-major-epilogue-clusters)
 6. [Progression Metrics & Implementation Suggestions](#6-progression-metrics--implementation-suggestions)
 7. [Example Encounters showing progression interaction](#7-example-encounters-showing-progression-interaction)
 8. [UI & UX suggestions for progression feedback](#8-UI--UX-suggestions-for-progression-feedback)
