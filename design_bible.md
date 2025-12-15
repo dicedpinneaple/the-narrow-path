@@ -8,7 +8,7 @@ Below is the Core Pillars Document (CPD), written in professional studio format,
 4. [Design Pillars](#4-design-pillars)
 5. [Experience Goals](#5-what-the-game-is)
 6. [Experience Pitfalls](#6-what-the-game-is-not)
-7. [Usability](#7-usability-accessibility-pillars)
+7. [Usability](#7-usability-and-accessibility-pillars)
 8. [Production Pillars](#8-production-pillars)
 
 ---
@@ -260,7 +260,7 @@ NOT a moral lecture
 
 ---
 
-# 7. USABILITY & ACCESSIBILITY PILLARS
+# 7. USABILITY AND ACCESSIBILITY PILLARS
 
 All esoteric concepts must be explained through story and usage, not textbooks.
 
