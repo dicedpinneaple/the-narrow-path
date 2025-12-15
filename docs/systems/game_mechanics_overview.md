@@ -10,10 +10,23 @@ Genre: Narrative RPG / Investigative Interactive Novel (Mobile)
 Perspective: First-person prose + “Disco Elysium-like” skill checks and internal dialogues
 Platform: Mobile (portrait & landscape compatibility)
 
+---
+
+## Table of Contents 
+
+[1.Core Loop](#core-loop)
+[2.Player Systems](#player-systems)
+[3.World Systems](#world-systems)
+[4.Reporting System](#reporting-system)
+[5.Dialogue & Internal Monologue System](#dialogue--internal-monologue-system)
+[6.Choice & Consequence Structure](#choide--consequence-structure)
+[7.Symbol & Numerology Integration](#symbol--numerology-integration)
+[8.Player Failure & Success States](#player-failure--success-states)
+[9. Onboarding & UX](#onboarding--ux)
 
 ---
 
-1. CORE LOOP
+# 1. CORE LOOP
 
 1.1 Player Core Loop
 
@@ -45,7 +58,7 @@ This loop repeats until the player reaches a final editorial decision.
 
 ---
 
-2. PLAYER SYSTEMS
+# 2. PLAYER SYSTEMS
 
 2.1 Player “Cognitive Skills”
 
@@ -204,7 +217,7 @@ Each ritual has:
 
 ---
 
-3. WORLD SYSTEMS
+# 3. WORLD SYSTEMS
 
 3.1 Open Area Exploration (Narrative Layered Map)
 
@@ -277,7 +290,7 @@ No NPC is purely right or wrong.
 
 ---
 
-4. REPORTING SYSTEM (The “Final Weapon”)
+# 4. REPORTING SYSTEM (The “Final Weapon”)
 
 The entire game is ultimately about how the player writes their piece.
 
@@ -335,7 +348,7 @@ The report becomes the ending screen, shaping epilogues for characters, the sect
 
 ---
 
-5. DIALOGUE & INTERNAL MONOLOGUE SYSTEM
+# 5. DIALOGUE & INTERNAL MONOLOGUE SYSTEM
 
 Heavily inspired by Disco Elysium, but simplified for mobile.
 
@@ -368,7 +381,7 @@ Sometimes conflicting voices override each other depending on Gravity.
 
 ---
 
-6. CHOICE & CONSEQUENCE STRUCTURE
+# 6. CHOICE & CONSEQUENCE STRUCTURE
 
 6.1 Types of Choices
 
@@ -404,7 +417,7 @@ Interpretation becomes world-state.
 
 ---
 
-7. SYMBOL & NUMEROLOGY INTEGRATION
+# 7. SYMBOL & NUMEROLOGY INTEGRATION
 
 7.1 The Sect’s Symbol (from earlier output)
 
@@ -439,7 +452,7 @@ If the player spots it (Perception check), new clue branches unlock.
 
 ---
 
-8. PLAYER FAILURE / SUCCESS STATES
+# 8. PLAYER FAILURE / SUCCESS STATES
 
 Failure is narrative, not mechanical.
 
@@ -455,7 +468,7 @@ Success grants depth, not superiority.
 
 ---
 
-9. ONBOARDING & UX
+# 9. ONBOARDING & UX
 
 Onboarding Goals
 
