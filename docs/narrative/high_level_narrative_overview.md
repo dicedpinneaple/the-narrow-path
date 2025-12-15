@@ -2,11 +2,11 @@
 Below is the High-Level Narrative Overview (HNO), written in professional narrative design format: structured, scalable, and suitable for pitching, internal alignment, and pre-production.
 
 # Table of Contents
-1. [Prologue](#--prologue-the-story-in-the-wire)
-2. [Act I](#--act-i-the-silent-valley-discovery)
-3. [Act II](#--act-ii-the-measured-path-integration)
-4. [Act III](#--act-iii-the-eye-of-judgement)
-5. [Epilogues](--epilogues-the-consequences-of-words)
+1. [Prologue](#prologue-the-story-in-the-wire)
+2. [Act I](#act-i-the-silent-valley-discovery)
+3. [Act II](#act-ii-the-measured-path-integration)
+4. [Act III](#act-iii-the-eye-of-judgement)
+5. [Epilogues](epilogues-the-consequences-of-words)
 
 ---
 
