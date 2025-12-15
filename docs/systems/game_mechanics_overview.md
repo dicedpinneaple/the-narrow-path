@@ -14,15 +14,15 @@ Platform: Mobile (portrait & landscape compatibility)
 
 ## Table of Contents 
 
-1. [Core Loop](#core-loop)
-2. [Player Systems](#player-systems)
-3. [World Systems](#world-systems)
-4. [Reporting System](#reporting-system)
-5. [Dialogue & Internal Monologue System](#dialogue--internal-monologue-system)
-6. [Choice & Consequence Structure](#choide--consequence-structure)
-7. [Symbol & Numerology Integration](#symbol--numerology-integration)
-8. [Player Failure & Success States](#player-failure--success-states)
-9. [Onboarding & UX](#onboarding--ux)
+1. [Core Loop](#1.core-loop)
+2. [Player Systems](#2.player-systems)
+3. [World Systems](#3.world-systems)
+4. [Reporting System](#4.reporting-system)
+5. [Dialogue & Internal Monologue System](#5.dialogue--internal-monologue-system)
+6. [Choice & Consequence Structure](#6.choide--consequence-structure)
+7. [Symbol & Numerology Integration](#7.symbol--numerology-integration)
+8. [Player Failure & Success States](#8.player-failure--success-states)
+9. [Onboarding & UX](#9.onboarding--ux)
 
 ---
 
